@@ -1,0 +1,5 @@
+exclude:
+  - Gemfile
+  - Gemfile.lock
+permalink: pretty
+url: http://campanulaadvisory.com
